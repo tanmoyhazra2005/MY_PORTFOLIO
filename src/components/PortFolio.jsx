@@ -70,9 +70,10 @@ function PortFolio() {
                 <div className="px-4 font-bold text-xl mb-2"></div>
               </div>
               <div className=" px-7 py-4 space-x-6 justify-around">
+                <Link to="/video">
                 <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold px-4 py-2 rounded">
                   Video
-                </button>
+                </button></Link>
                 <Link to="/gallery">
                 <button 
                 className="bg-green-500 hover:bg-green-700 text-white font-bold px-4 py-2 rounded">

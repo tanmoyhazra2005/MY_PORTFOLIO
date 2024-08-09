@@ -12,6 +12,7 @@ import Contact from "./components/Contact";
 import { Toaster } from "react-hot-toast";
 import Memories from "./components/Memories";
 import Mapp from "./components/Mapp";
+import Video from "./components/Video";
 
 function App() {
   return (
@@ -32,6 +33,7 @@ function App() {
         <Routes>
               <Route path="/" element={<PortFolio />} />
               <Route path="/gallery" element={<Gallery />} />
+              <Route path="/video" element={<Video />} />
               <Route path="/back" element={<Mapp />} />
         </Routes>
         <Routes>
