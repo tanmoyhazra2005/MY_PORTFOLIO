@@ -5,7 +5,7 @@ import python from "../../public/Com/pic_ (2).png";
 import mongoDB from "../../public/Com/pic_ (5).png";
 import express from "../../public/Com/pic_ (3).png";
 import reactjs from "../../public/Com/pic- (7).jpg";
-import pic from "../../public/Com/img_2.jpg";
+import pic from "../../public/Com/pic_ (118).jpg";
 import nodejs from "../../public/Com/img_1.jpg";
 
 function PortFolio() {
