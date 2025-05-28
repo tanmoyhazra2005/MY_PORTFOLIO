@@ -1,6 +1,6 @@
 import React from "react";
 import { Link, useNavigate } from 'react-router-dom';
-import pic1 from "../../public/com/img_2.jpg";
+import pic1 from "../../com/img_2.jpg";
 import pic2 from "../../public/com/pic_ (11).jpg";
 import pic3 from "../../public/com/pic_ (28).jpg";
 import pic4 from "../../public/com/pic_ (81).jpg";
