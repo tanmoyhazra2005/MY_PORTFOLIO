@@ -26,43 +26,43 @@ function Gallery() {
                 logo: Img1,
             },
             {
-                id:1,
+                id:2,
                 logo: Img2,
             },
             {
-                id:1,
+                id:3,
                 logo: Img3,
             },
             {
-                id:1,
+                id:4,
                 logo: Img4,
             },
             {
-                id:1,
+                id:5,
                 logo: Img5,
             },
             {
-                id:1,
+                id:6,
                 logo: Img6,
             },
             {
-                id:1,
+                id:7,
                 logo: Img7,
             },
             {
-              id:1,
+              id:8,
               logo: Img8,
             },
             {
-              id:1,
+              id:9,
               logo: Img9,
             },
             {
-              id:1,
+              id:10,
               logo: Img10,
             },
             {
-              id:1,
+              id:11,
               logo: Img11,
             }
          ];
