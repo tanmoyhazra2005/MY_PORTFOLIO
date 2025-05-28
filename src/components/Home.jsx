@@ -4,9 +4,6 @@ import pic from "../../public/my_pic.jpg";
 
 import { FaSquareFacebook } from "react-icons/fa6";
 import { FaInstagram } from "react-icons/fa";
-import { IoLogoYoutube } from "react-icons/io";
-import { FaTelegram } from "react-icons/fa6";
-
 import { ReactTyped } from "react-typed";
 
 function Home() {
@@ -17,21 +14,17 @@ function Home() {
       >
         <div className="flex flex-col md:flex-row">
           <div className="md:w-1/2 mt-12 md:mt-24 space-y-2 order-2 md:order-1">
-            <span className="text-red-500 text-xl">Welcome In My Feed</span>
+            <span className="text-red-500 text-xl">HELLO..,MOST WELCOME DEAR..</span>
             <div className="flex space-x-1 text-2xl md:text-4xl">
-              <h1>Hello, I'm a</h1>
-              {/* <span >Developer</span> */}
-              <ReactTyped
-                className="text-green-600 font-bold"
-                strings={["Developer", "Programmer", "Coder"]}
-                typeSpeed={40}
-                backSpeed={50}
-                loop={true}
-              />
+              <h1>MANY MANY HAPPY RETURNS OF THE DAY..🎈🎈💝</h1>
             </div>
             <br />
             <p className="text-sm md:text-md text-justify">
-            My name is Tanmoy Hazra, I am a student and I studied computer science in web development and software development. Also I am doing Diploma in Computer Science and Technology, East Burdwan,Katwa. I live in Ghatal District of West Medinipur. I still know the basics of web development and I want to learn more about it and I strongly believe that this will lead me to success one day.
+              Happy Birthday, SINU !!
+              May this special day bring you lots of joy, love, and happiness in your life.
+              Your smile is my greatest gift.
+              I feel lucky to have a beautiful friend like you in my life.
+              Just like every day, today too, you are beautiful, radiant, and unique.
             </p>
             <br />
             {/* social media icons */}
@@ -40,23 +33,13 @@ function Home() {
                 <h1 className="font-bold text-center ">Available on</h1>
                 <ul className="flex space-x-5">
                   <li>
-                    <a href="https://www.facebook.com/profile.php?id=100057400878629&mibextid=ZbWKwL" target="_blank">
+                    <a href="https://www.facebook.com/share/1NETSScG3X/" target="_blank">
                       <FaSquareFacebook className="text-2xl cursor-pointer hover:scale-150 duration-300" />
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.instagram.com/tanmoyhazra8972?igsh=dHZtdGlyYmM5eWV2" target="_blank">
+                    <a href="https://www.instagram.com/miss.jana007?utm_source=qr&igsh=MWs1OG52c2FlZjN6cg==" target="_blank">
                       <FaInstagram className="text-2xl cursor-pointer hover:scale-150 duration-300" />
-                    </a>
-                  </li>
-                  <li>
-                    <a href="https://www.youtube.com/@TATAI_VINES6704" target="_blank">
-                      <IoLogoYoutube className="text-2xl cursor-pointer hover:scale-150 duration-300" />
-                    </a>
-                  </li>
-                  <li>
-                    <a href="https://t.me/tatai_vines000" target="_blank">
-                      <FaTelegram className="text-2xl cursor-pointer hover:scale-150 duration-300" />
                     </a>
                   </li>
                 </ul>

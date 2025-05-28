@@ -6,10 +6,10 @@ function NavGall() {
   const navigate = useNavigate();
   return (
     <>
-      <div className="max-w-screen-2xl container mx-auto px-4 md:px-10 h-16 shadow-md fixed top-0 left-0 right-0 z-50 bg-blue-900">
+      <div className="max-w-screen-2xl container mx-auto px-4 md:px-10 h-16 shadow-md fixed top-0 left-0 right-0 z-50 bg-fuchsia-600">
         <div className="text-white flex justify-between items-center h-16">
           <div className=" flex space-x-2">
-            <img src={pic} className="h-11 md:h-16 w-19 md:w-49" alt="" />
+            <img src={pic} className="h-17 md:h-28 w-28 md:w-55" alt="" />
           </div>
           <div className="flex space-x-8">
             <Link to="/back">

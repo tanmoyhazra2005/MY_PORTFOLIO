@@ -15,30 +15,20 @@ function Footer() {
             <div>
             <ul className="flex space-x-4">
                   <li>
-                    <a href="https://www.facebook.com/profile.php?id=100057400878629&mibextid=ZbWKwL" target="_blank">
+                    <a href="https://www.facebook.com/share/1NETSScG3X/" target="_blank">
                       <FaSquareFacebook className="text-2xl cursor-pointer hover:scale-150 duration-300" />
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.instagram.com/tanmoyhazra8972?igsh=dHZtdGlyYmM5eWV2" target="_blank">
+                    <a href="https://www.instagram.com/miss.jana007?utm_source=qr&igsh=MWs1OG52c2FlZjN6cg==" target="_blank">
                       <FaInstagram className="text-2xl cursor-pointer hover:scale-150 duration-300" />
-                    </a>
-                  </li>
-                  <li>
-                    <a href="https://www.youtube.com/@TATAI_VINES6704" target="_blank">
-                      <IoLogoYoutube className="text-2xl cursor-pointer hover:scale-150 duration-300" />
-                    </a>
-                  </li>
-                  <li>
-                    <a href="http://t.me/tatai_vines000" target="_blank">
-                      <FaTelegram className="text-2xl cursor-pointer hover:scale-150 duration-300" />
                     </a>
                   </li>
                 </ul>
             </div>
             <div className="mt-8 border-t border-gray-700 pt-8 flex flex-col items-center">
               <p className="text-sm">
-                &copy; 2024 TaTai_Vines. All rights reserved.
+                &copy; 2025 @TANMOY HAZRA. All rights reserved.
               </p>
               <p className="text-sm">Support or Help Learn Coding ❤️ </p>
             </div>

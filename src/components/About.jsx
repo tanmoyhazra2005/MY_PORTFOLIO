@@ -9,47 +9,27 @@ function About() {
       <div>
         <h1 className="text-red-500 text-3xl font-bold mb-5">About</h1>
         <p>
-          Hello, I'm Tanmoy, Already you know a little bit about me also some of my education knowledge and experience are given below. I don't like to waste time because time is like a river that never stops for anyone.
+                    সত্যি বলছি, ছোটবেলাটাই ছিল সেরা,
+          নাই ছিল চিন্তা, না ছিল ভয়—জীবন ছিল এক খেলা।
+          স্কুলের ব্যাগে শুধু বই নয়, ছিল হাসি আর গল্প,
+          একসাথে চলা, দৌড়ে যাওয়া—ছুটির পর মেলা যতসব।
+
+          প্রাইভেটের নাম করে খেতাম ফুচকা আর মুরগির ঝাল,
+          হাসি-ঠাট্টায় কেটেছে বিকেল, সন্ধ্যা হত লাজুক-শাল।
+          শান্তনু, তুয়া, তুই—তোমরা ছিলে পাশে,
+          আজও সেই মুহূর্তগুলো মনের কোণে বসে হাসে।
+
+          আমার রুমে কেক কাটা, বেলুনে সাজানো রাত,
+          বন্ধুদের সঙ্গে জন্মদিন মানেই ছিল চিরকালীন প্রাপ্তির মাত।
+          আজ সবাই ব্যস্ত, কেউ পড়ে দূরে, কেউ কাজের জালে,
+          তবুও তোদের জন্মদিনে মন ফিরে যায় সেই কচি ভালোবাসার কালে।
+
+          চোখে জল আসে, কিন্তু মন হাসে—স্মৃতির জোয়ারে ভেসে,
+          ভালো থাকিস, বন্ধু, তোদের জন্য আজও বুকটা ভালোবেসে।
+          ভুলে যাস না, কেউ একজন এখনো তোদের কথা খুব মনে রাখে,
+          যে আজো তোদের জন্য হঠাৎ করেই অতীতের দোর খুলে ডাকে।
         </p>
         <br />
-        <h1 className="text-green-600 font-semibold text-xl">
-          Secondary Education
-        </h1>
-        <span>
-        I completed my Secondary Education in (2020 to 2021) with 71% marks from BHAGAWANCHAK PATIRAM SIKSHANIKETAN under WEST BENGAL BOARD OF SECONDARY EDUCATION (WBBSE).
-        </span>
-        <br />
-        <br />
-        <h1 className="text-green-600 font-semibold text-xl">
-         Higher Secondary Education
-        </h1>
-        <span>
-        I Completed my Higher Secondary Education with Vocational Course (in 2021 to 2023) with 77% marks in Automobile Engineering from JOTEGHANASHYAM NILMONI HIGH SCHOOL under WEST BENGAL STATE COUNCIL OF TECHNICAL & VOCATIONAL EDUCATION AND SKILL DEVELOPMENT(WBSCTVESD).
-        </span>
-        <br />
-        <br />
-        <h1 className="text-green-600 font-semibold text-xl">
-          Running Study with Diploma
-        </h1>
-        <span>
-         I am doing Diploma in Computer Science and Technology from BENGAL INSTITUTE OF TECHNOLOGY(Purba Burdwan,Katwa) under WEST BENGAL STATE COUNCIL OF TECHNICAL & VOCATIONAL EDUCATION AND SKILL DEVELOPMENT(WBSCTVESD). I got admission in this college with lateral entry through government exam in 2023.
-        </span>
-        <br />
-        <br />
-        <h1 className="text-green-600 font-semibold text-xl">
-          Study Experience
-        </h1>
-        <span>
-         I have some experience in Web Development and Software Development. I am studying Python, Java, c, Javascript language.
-        </span>
-        <br />
-        <br />
-        <h1 className="text-green-600 font-semibold text-xl">
-         My Goal or Mission
-        </h1>
-        <p>
-          My goal is to become a good developer, coder.I don't know if my wish will be fulfilled but I want to do phd in computer science.I have no desire to work outside the country, actually I will not work outside my state, if I get a job I will do it in Kolkata, yes that is my wish.I don't know how much my wish will be fulfilled, I also dream like other four middle class people, I also have some wish.I went out to this battlefield with a smile to fulfill that dream.
-        </p>
       </div>
     </div>
   );
